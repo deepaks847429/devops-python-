@@ -9,3 +9,16 @@
 ## Questions
  # How can you handle exceptions handling gracefully?
  # When would you use a generator vs a list comprehensions?
+
+ ## Notes
+ - python is case sensitive
+ - New statement in python will end with new line.
+ # Datatypes
+ # typecasting
+ # scope of function
+  - local
+  - global
+ # operators
+  - Airthematic operators
+  - 
+
